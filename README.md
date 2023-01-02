@@ -1,6 +1,6 @@
 # NNFS
 
-I am learning about neural networks and the maths behind them. I am following the book on <a href="nnfs.io">nnfs.io</a>.
+I am learning about neural networks and the maths behind them. I am following the book on <a href="https://nnfs.io">nnfs.io</a>.
 
 # Progress updates
 
